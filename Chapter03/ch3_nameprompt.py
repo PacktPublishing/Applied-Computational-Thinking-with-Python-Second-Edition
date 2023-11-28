@@ -1,2 +1,2 @@
-name = raw_input("Hello, traveler. What is your name? ")
-print("Hello, " + name + ". Welcome to the adventure!")
+name = input("Hello traveler. What is your name? ")
+print(f"Hello, {name}. Welcome to the adventure!")
