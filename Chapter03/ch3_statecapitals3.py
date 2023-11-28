@@ -4,7 +4,7 @@ state_capitals = {
     "Arkansas" : "Little Rock"
     }
 
-state = raw_input("What state's capital are you looking for today? ")
+state = input("What state's capital are you looking for today? ")
 capital = state_capitals[state]
 
 
