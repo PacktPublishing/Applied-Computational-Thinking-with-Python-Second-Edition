@@ -71,4 +71,4 @@ def save_image(surface, file_path):
         draw_triangles(cr, triangles, 0, .2, .8, .8) # teal triangles
         draw_triangles(cr, triangles, 1, 0.7, 0, 0.7) #purple triangles
         draw_borders(cr, triangles) #The Triangle borders
-        save_image(surface, r'C:\\ ..\\ tessellation.png')
+        save_image(surface, r'C:\Users\...\PATH_TO_FILE\tessellation.png')
