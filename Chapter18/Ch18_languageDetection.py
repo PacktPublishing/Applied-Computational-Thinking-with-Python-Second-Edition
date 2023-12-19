@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import confusion_matrix, classification_report
 
 # Load your dataset
-dataset_path = r'C:\Users\PATH_TO_FILE\dataset.csv'
+dataset_path = r'C:\\...\\\dataset.csv'
 df = pd.read_csv(dataset_path)
 X = df['Text']
 y = df['language']
