@@ -20,7 +20,7 @@ This book covers the following exciting features:
 * Identify errors in logical processing to refine your solution design
 * Apply computational thinking in domains, such as cryptography, and machine learning
 
-If you feel this book is for you, get your [copy](amazon_link) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Applied-Computational-Thinking-Python-real-world/dp/1837632308/ref=sr_1_4?crid=3JZRXWA9SVTEM&keywords=applied+computational+thinking+with+python&qid=1704196126&sprefix=%2Caps%2C266&sr=8-4) today!
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
