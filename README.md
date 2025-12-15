@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
-
 # Applied Computational Thinking with Python
 
 <a href="https://www.packtpub.com/product/applied-computational-thinking-with-python-second-edition/9781837632305"><img src="https://content.packt.com/B19521/cover_image_small.jpg" alt="no-image" height="256px" align="right"></a>
