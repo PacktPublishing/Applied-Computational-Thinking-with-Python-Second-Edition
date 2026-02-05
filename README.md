@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
+
 # Applied Computational Thinking with Python
 
 <a href="https://www.packtpub.com/product/applied-computational-thinking-with-python-second-edition/9781837632305"><img src="https://content.packt.com/B19521/cover_image_small.jpg" alt="no-image" height="256px" align="right"></a>
